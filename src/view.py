@@ -73,7 +73,7 @@ while True:
 
 	print(f"\nWelcome {playerName}! Answer the questions with the letter representing one alternative or write 'exit' to end the game\n")
 
-#Showing questions and alternatives
+	#Showing questions and alternatives
 	for question in listOfQuestions:
 		currentAlternatives = myController.getcurrentQuestionAlternativesList(question.id)
 		print(question.title)
