@@ -1,16 +1,16 @@
-id;title;level
-1;What is the hight of the Eiffel tower?;easy
-2;How many years has the Earth?;medium
-3;What is the name of the main antagonist in the Shakespeare play Othello?;hard
-4;What element is denoted by the chemical symbol Sn in the periodic table?;medium
-5;What is the smallest planet in our solar system?;easy
-6;Name the Coffee shop in US sitcom Friends;medium
-7;What is the capital of New Zealand?;hard
-8;How many permanent teeth does a dog have?;hard
-9;What’s longer, a nautical mile or a mile?;medium
-10;Which British actor will play Batman in the upcoming reboot directed by Matt Reeves?;hard
-11;Continental United States has 4 time zones, can you name them?;medium
-12;Who was the head of state in Japan during the second world war?;medium
-13;What is the currency of Denmark?;hard
-14;In what US State is the city Nashville?;hard
-15;How many of Henry VIII’s wives were called Catherine?;hard
+id,title,level
+1,What is the hight of the Eiffel tower?,easy
+2,How many years has the Earth?,medium
+3,What is the name of the main antagonist in the Shakespeare play Othello?,hard
+4,What element is denoted by the chemical symbol Sn in the periodic table?,medium
+5,What is the smallest planet in our solar system?,easy
+6,Name the Coffee shop in US sitcom Friends,medium
+7,What is the capital of New Zealand?,hard
+8,How many permanent teeth does a dog have?,hard
+9,What's longer, a nautical mile or a mile?,medium
+10,Which British actor will play Batman in the upcoming reboot directed by Matt Reeves?,hard
+11,Continental United States has 4 time zones, can you name them?,medium
+12,Who was the head of state in Japan during the second world war?,medium
+13,What is the currency of Denmark?,hard
+14,In what US State is the city Nashville?,hard
+15,How many of Henry VIII's wives were called Catherine?,hard

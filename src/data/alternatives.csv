@@ -1,41 +1,41 @@
-id;question_id;title;is_correct
-1;1;312;FALSE
-2;1;280;FALSE
-3;1;300;TRUE
-4;2;4 billion;FALSE
-5;2;4.54 billion;TRUE
-6;2;4.6 billion;FALSE
-7;3;Iago;TRUE
-8;3;Lancester;FALSE
-9;3;York;FALSE
-10;4;Silver;FALSE
-11;4;Gold;FALSE
-12;4;Tin;TRUE
-13;5;Pluto;FALSE
-14;5;Mercury;TRUE
-15;6;Central Cofee;FALSE
-16;6;Central Perk;TRUE
-17;6;Central Park;FALSE
-18;7;Wellington;TRUE
-19;7;Sidney;FALSE
-20;7;Queenstown;FALSE
-21;8;41;FALSE
-22;8;38;FALSE
-23;8;42;TRUE
-24;9;A Mile;FALSE
-25;9;A Nautical Mile;TRUE
-26;10;Robert Pattinson;TRUE
-27;10;Benedict Cumberbatch;FALSE
-28;11;Pacific, Central, East Central, Eastern;FALSE
-29;11;Pacific, Mountain, Central, Eastern;TRUE
-30;12;Emperor Hirohito;TRUE
-31;12;Emperor Naruhito;FALSE
-32;13;Denmarkese Dollar;FALSE
-33;13;Krone;TRUE
-34;13;Den Dollar;FALSE
-35;14;New York;FALSE
-36;14;Tennessee;TRUE
-37;14;New Jersey;FALSE
-38;15;3;TRUE
-39;15;2;FALSE
-40;15;4;FALSE
+id,question_id,title,is_correct
+1,1,312,FALSE
+2,1,280,FALSE
+3,1,300,TRUE
+4,2,4 billion,FALSE
+5,2,4.54 billion,TRUE
+6,2,4.6 billion,FALSE
+7,3,Iago,TRUE
+8,3,Lancester,FALSE
+9,3,York,FALSE
+10,4,Silver,FALSE
+11,4,Gold,FALSE
+12,4,Tin,TRUE
+13,5,Pluto,FALSE
+14,5,Mercury,TRUE
+15,6,Central Cofee,FALSE
+16,6,Central Perk,TRUE
+17,6,Central Park,FALSE
+18,7,Wellington,TRUE
+19,7,Sidney,FALSE
+20,7,Queenstown,FALSE
+21,8,41,FALSE
+22,8,38,FALSE
+23,8,42,TRUE
+24,9,A Mile,FALSE
+25,9,A Nautical Mile,TRUE
+26,10,Robert Pattinson,TRUE
+27,10,Benedict Cumberbatch,FALSE
+28,11,Pacific | Central | East Central | Eastern,FALSE
+29,11,Pacific | Mountain | Central | Eastern,TRUE
+30,12,Emperor Hirohito,TRUE
+31,12,Emperor Naruhito,FALSE
+32,13,Denmarkese Dollar,FALSE
+33,13,Krone,TRUE
+34,13,Den Dollar,FALSE
+35,14,New York,FALSE
+36,14,Tennessee,TRUE
+37,14,New Jersey,FALSE
+38,15,3,TRUE
+39,15,2,FALSE
+40,15,4,FALSE
